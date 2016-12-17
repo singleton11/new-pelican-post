@@ -1,7 +1,7 @@
 {
   "content_folder": "content",
   "title": "New Post",
-  "created": "{% now 'local', '%Y-%m-%d %H-%M-%S' %}",
+  "created": "{% now 'local', '%Y-%m-%d %H:%M:%S' %}",
   "tags": "python, django",
   "category": "django",
   "slug": "{{ cookiecutter.title.lower()|replace(' ', '_')|replace('-', '_') }}",
