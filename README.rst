@@ -1,9 +1,7 @@
 New Pelican Post
 ################
 
-A cookiecutter for new pelican post boilerplate
-
-.. code-block::bash
+A cookiecutter for new pelican post boilerplate::
 
     $ cookiecutter https://github.com/singleton11/pelican-new-post -f
     content_folder [content]:
