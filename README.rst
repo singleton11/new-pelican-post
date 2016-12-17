@@ -3,7 +3,7 @@ New Pelican Post
 
 A cookiecutter for new pelican post boilerplate::
 
-    $ cookiecutter https://github.com/singleton11/pelican-new-post -f
+    $ cookiecutter https://github.com/singleton11/new-pelican-post -f
     content_folder [content]:
     title [New Post]: @ operator in python 3.5
     created [2016-12-17 22-19-48]:
