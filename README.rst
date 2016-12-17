@@ -17,7 +17,9 @@ A cookiecutter for new pelican post boilerplate::
 
 ``content_folder`` variable is needed for point where your content folder located.
 
-This will generate a file with following content::
+This will generate a file with following content
+
+**@_operator_in_python_3.5.rst**::
 
     @ operator in python 3.5
     ########################
